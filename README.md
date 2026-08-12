@@ -226,52 +226,11 @@ Projetos acadêmicos e profissionais envolvendo sistemas, banco de dados, págin
 
 ---
 
-# `> GITHUB_ANALYTICS`
-
-<h2 align="center">> GITHUB_ANALYTICS</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arruda-007&show_icons=true&hide_border=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arruda-007&layout=compact&hide_border=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Arruda-007&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
-
-</div>
----
-
 # `> ACTIVITY_GRAPH`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arruda-007&bg_color=050816&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# `> TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arruda-007&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-
-</div>
-
----
-
-# `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Arruda-007/Arruda-007/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
