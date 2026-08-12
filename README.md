@@ -12,8 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Arruda--007-050816?style=for-the-badge\&logo=github\&logoColor=00e5ff)](https://github.com/Arruda-007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cau%C3%AA%20Arruda-050816?style=for-the-badge\&logo=linkedin\&logoColor=00e5ff)](https://www.linkedin.com/)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-ONLINE-050816?style=for-the-badge\&logo=vercel\&logoColor=00e5ff)](https://pixel-perfect-clone-93092.lovable.app/](https://cauearruda-jd6mllwn9-arruda-dev.vercel.app/))
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-ONLINE-050816?style=for-the-badge&logo=vercel&logoColor=00e5ff)](https://cauearruda-jd6mllwn9-arruda-dev.vercel.app/)
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Arruda-007&label=SYSTEM%20VISITS&color=00e5ff&style=flat-square" alt="Profile Views"/>
@@ -289,8 +288,8 @@ Projetos acadêmicos e profissionais envolvendo sistemas, banco de dados, págin
 <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
-<a href="https://pixel-perfect-clone-93092.lovable.app/">
-<img src="[https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=00E5FF](https://cauearruda-jd6mllwn9-arruda-dev.vercel.app/)"/>
+<a href="https://cauearruda-jd6mllwn9-arruda-dev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
 </a>
 
 </div>
