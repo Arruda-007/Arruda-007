@@ -228,11 +228,13 @@ Projetos acadêmicos e profissionais envolvendo sistemas, banco de dados, págin
 
 # `> GITHUB_ANALYTICS`
 
+<h2 align="center">> GITHUB_ANALYTICS</h2>
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arruda-007&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arruda-007&show_icons=true&hide_border=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arruda-007&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arruda-007&layout=compact&hide_border=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF" height="180"/>
 
 </div>
 
@@ -240,10 +242,9 @@ Projetos acadêmicos e profissionais envolvendo sistemas, banco de dados, págin
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Arruda-007&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://streak-stats.demolab.com/?user=Arruda-007&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
 
 </div>
-
 ---
 
 # `> ACTIVITY_GRAPH`
